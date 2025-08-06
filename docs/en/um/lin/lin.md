@@ -88,3 +88,5 @@ Configure and simulate LIN nodes to test network behavior and dynamically update
    For example, when the device Lin works in Master mode and Node1 is configured as a `Motor2` Slave network node, when a request for `Motor2` is received, Node1 will automatically respond to this frame and give a Response.
 
 
+   - View diagnostic responses from simulated nodes
+     ![Diagnostic Response](../../../media/um/lin/image-7.png)

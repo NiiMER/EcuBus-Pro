@@ -150210,3 +150210,4 @@ fail:
 }
 
 NODE_API_MODULE(vector, Init)
+
